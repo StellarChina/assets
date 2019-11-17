@@ -1,2 +1,2 @@
 # assets
-🎨logo, pictures, text, etc
+🎨logo, pictures, text, translations, etc
